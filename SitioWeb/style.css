@@ -56,6 +56,11 @@ nav {
     display: flex;
     width: 50%;
 }
+.titulo-imagen a {
+    height: 100%;
+    display: flex;
+    width: 50%;
+}
 
 #titulo img {
     margin: auto 0 auto auto;
@@ -542,6 +547,11 @@ footer .footer-logo {
         height: 200px;
         width: 640px;
     }
+    .titulo-imagen a {
+        margin: auto;
+        height: 200px;
+        width: 640px;
+    }
     .titulo-texto {
         margin: auto;
         width: 100%;
@@ -555,6 +565,9 @@ footer .footer-logo {
     }
     .titulo-botones {
         text-align: center;
+    }
+    nav {
+        height: 700px;
     }
 }
 
@@ -601,7 +614,15 @@ footer .footer-logo {
         height: 200px;
         width: 90%;
     }
+    nav {
+        height: 700px;
+    }
     .titulo-imagen {
+        margin: auto;
+        height: 200px;
+        width: 100%;
+    }
+    .titulo-imagen a{
         margin: auto;
         height: 200px;
         width: 100%;
