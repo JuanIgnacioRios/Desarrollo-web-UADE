@@ -113,6 +113,10 @@ nav-terminos {
     width: 640px;
 }
 
+.titulo-botones a button{
+    cursor: pointer;
+}
+
 .titulo-texto {
     margin: auto auto auto 0;
     height: 100%;
