@@ -591,10 +591,25 @@ footer .boton:hover {}
     width: 100%;
 }
 
+.social-container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-container a img{
+    width: 100%;
+}
+
+.social-container a .ig{
+    width: 50px;
+}
+
+
+
 .social-link {
     height: 120px;
     width: 60px;
-    background-image: url(img/logo-facebook.png);
     background-size: 80%;
     background-position: center;
     margin-right: 1rem;
@@ -605,13 +620,6 @@ footer .boton:hover {}
     opacity: 0.7;
 }
 
-footer .social-link:nth-of-type(2) {
-    background-image: url(img/logo-twitter.png);
-}
-
-footer .social-link:nth-of-type(3) {
-    background-image: url(img/logo-instagram.png);
-}
 
 footer .footer-logo {
     padding: 25px 7px;
