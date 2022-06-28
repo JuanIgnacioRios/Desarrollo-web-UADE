@@ -24,6 +24,46 @@ nav {
     flex-flow: column;
 }
 
+nav-nosotros {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    background-image: url("img/portada-nosotros.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-flow: column;
+}
+
+nav-contacto {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    background-image: url("img/biografia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-flow: column;
+}
+
+nav-prensa {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    background-image: url("img/biografia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-flow: column;
+}
+
+nav-terminos {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    background-image: url("img/biografia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-flow: column;
+}
+
 #navegacion ul {
     display: flex;
     list-style-type: none;
