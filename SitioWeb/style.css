@@ -2,6 +2,11 @@
 
 /* Navbar Home*/
 
+iframe {
+    width: 80%;
+    max-width: 500px;
+}
+
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
