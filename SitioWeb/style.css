@@ -38,7 +38,7 @@ nav-contacto {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/biografia.jpg");
+    background-image: url("img/portada-contacto.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
@@ -48,7 +48,7 @@ nav-prensa {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/biografia.jpg");
+    background-image: url("img/portada-prensa.webp");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
@@ -58,7 +58,7 @@ nav-terminos {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/biografia.jpg");
+    background-image: url("img/portada-terminos.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
