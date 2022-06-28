@@ -81,6 +81,11 @@ nav-terminos {
     text-decoration: none;
     margin: 30px;
     padding: 10px;
+    transition: 0.2s;
+}
+
+#navegacion a:hover{
+    color: #c7c6c6;
 }
 
 #navegacion {
@@ -151,6 +156,12 @@ nav-terminos {
     border-radius: 50px;
     background: none;
     border: 1.5px solid #fff;
+    transition: 0.3s;
+}
+
+.titulo-texto button:hover{
+    background-color: #fff;
+    color: #050d5b;
 }
 
 .patrocinadores {
