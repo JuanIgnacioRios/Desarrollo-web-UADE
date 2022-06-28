@@ -441,6 +441,45 @@ nav-terminos {
 
 /* Sección terminos */
 
+#Terminos-y-condiciones{
+    background-color: bisque;
+}
+
+#titulo{
+    font-family: 'Nunito', sans-serif;
+;
+    font-size: 2.0rem;
+    color: #242565;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 30px 30px 0px 0px;
+}
+
+.subtitulo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 2.0rem;
+    color: #242565;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:left;
+    margin: 30px 30px 20px 30px;
+}
+
+.texto{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2rem;
+    color: #0A075F;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:left;
+    margin: 10px 350px 10px 30px;    
+}
+
 #titulo-terminos {
     display: flex;
     flex-direction: column;
@@ -449,22 +488,6 @@ nav-terminos {
     text-align: center;
     margin: 60px 0px 90px 0px;
 }
-
-#subtitulo-terminos {
-    font-family: 'Nunito', sans-serif;
-    font-size: 2.5rem;
-    color: #242565;
-}
-
-#subtitulo-nosotros-linea-3 {
-    font-family: 'Nunito', sans-serif;
-    font-size: 1.2rem;
-    color: #0A075F;
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-
 
 /* FOOTER */
 
