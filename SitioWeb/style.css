@@ -168,14 +168,14 @@ nav-terminos {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    max-width: 1400px;
+    max-width: 1200px;
     margin: auto;
     text-align: center;
     justify-content: space-between;
 }
 
 .card{
-    width: 32%;
+    width: 26%;
     border-radius: 6px;
     margin-bottom: 3%;
     overflow: hidden;
