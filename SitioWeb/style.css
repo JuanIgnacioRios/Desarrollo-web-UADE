@@ -332,19 +332,22 @@ nav-terminos {
     color: #0A075F;
 }
 
-#subtitulo-nosotros {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 60px 0px 90px 0px;
+#texto-nosotros {
+    margin-top:40px;
+    column-count:2;
+}
+
+#texto-nosotros img{
+    width: 60%;
+    margin-left: 25%;
 }
 
 #subtitulo-nosotros-linea-1 {
+    margin-left: 10%;
     font-family: 'Nunito', sans-serif;
     font-size: 2.5rem;
     color: #242565;
+    margin-right: 10%;
 }
 
 #subtitulo-nosotros-linea-2 {
