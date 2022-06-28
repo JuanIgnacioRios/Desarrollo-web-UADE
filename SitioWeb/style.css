@@ -625,6 +625,7 @@ footer .footer-logo {
     }
     .footer-menus {
         justify-content: center;
+        margin-bottom: 30px;
     }
     .menu-title {
         width: 100%;
@@ -668,6 +669,9 @@ footer .footer-logo {
     nav {
         height: 700px;
     }
+    .footer-content-container{
+        margin-bottom: 15px;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -708,6 +712,7 @@ footer .footer-logo {
     }
     .footer-content-container {
         padding: 0px 0px;
+        margin-bottom: 30px;
     }
     .footer-menus {
         flex-direction: column;
