@@ -28,7 +28,7 @@ nav-nosotros {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/portada-nosotros.jpeg");
+    background-image: url("img/portada-nosotros.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
@@ -38,7 +38,7 @@ nav-contacto {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/portada-contacto.jpeg");
+    background-image: url("img/portada-contacto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
@@ -48,7 +48,7 @@ nav-prensa {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/portada-prensa.webp");
+    background-image: url("img/portada-prensa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
@@ -58,7 +58,7 @@ nav-terminos {
     display: flex;
     height: 600px;
     width: 100%;
-    background-image: url("img/portada-terminos.jpeg");
+    background-image: url("img/portada-terminos.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     flex-flow: column;
