@@ -81,11 +81,6 @@ nav-terminos {
     text-decoration: none;
     margin: 30px;
     padding: 10px;
-    transition: 0.2s;
-}
-
-#navegacion a:hover{
-    color: #c7c6c6;
 }
 
 #navegacion {
@@ -156,12 +151,6 @@ nav-terminos {
     border-radius: 50px;
     background: none;
     border: 1.5px solid #fff;
-    transition: 0.3s;
-}
-
-.titulo-texto button:hover{
-    background-color: #fff;
-    color: #050d5b;
 }
 
 .patrocinadores {
@@ -456,7 +445,7 @@ nav-terminos {
     background-color: bisque;
 }
 
-#titulo{
+#titulo1{
     font-family: 'Nunito', sans-serif;
 ;
     font-size: 2.0rem;
@@ -469,7 +458,7 @@ nav-terminos {
     margin: 30px 30px 0px 0px;
 }
 
-.subtitulo{
+.subtitulo1{
     font-family: 'Nunito', sans-serif;
     font-size: 2.0rem;
     color: #242565;
@@ -480,7 +469,7 @@ nav-terminos {
     margin: 30px 30px 20px 30px;
 }
 
-.texto{
+.texto1{
     font-family: 'Nunito', sans-serif;
     font-size: 1.2rem;
     color: #0A075F;
